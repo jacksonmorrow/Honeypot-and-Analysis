@@ -47,7 +47,7 @@ Configure security groups to allow ports to be shown and accessed for attackers.
 <br />
 <br />
 
-Analyze attacks from different geographical locaitons:  <br/>
+Analyze attacks from different geographical locations:  <br/>
 ![](Images/p5.png)
 <br />
 <br />
@@ -59,7 +59,3 @@ Anazyle different IDS attack patterns:  <br/>
 ![](Images/p8.png)
 <br />
 <br />
-
-
-
-Inspired by Zach<br/>
