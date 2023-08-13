@@ -24,39 +24,38 @@ In this project, I designed and implemented a controlled honeypot environment us
 <p align="center">
 Launch the utility: <br/>
 
- Everything needed for the File Integrity Check:  <br/>
+ Create a Honeypot server using AWS EC2 Instance. :  <br/>
 ![](Images/p1.png)
 
 <br />
 <br />
 
+ Connect to Honeypot server and create a pipeline to Deatusche Security:  <br/>
+![](Images/p2.png)
 
-Targeting Folder with valuable information:  <br/>
+<br />
+<br />
+
+
+Clone Honeypot repo to our Honeypot EC2 Instance for Kibana use:  <br/>
 ![](images/p3.png)
 <br />
 <br />
 
-Run the MakeBaselineHash to get the original untampered hashes of files:  <br/>
+Configure security groups to allow ports to be shown and accessed for attackers. Allow personal use for SSH and Kibana Dashboard:  <br/>
 ![](Images/p4.png)
 <br />
 <br />
 
-Baseline hashes:  <br/>
+Analyze attacks from different geographical locaitons:  <br/>
 ![](Images/p5.png)
 <br />
 <br />
 
-Perpetrator goes into the system and steals your address without consent:  <br/>
+Anazyle different IDS attack patterns:  <br/>
 ![](Images/p6.png)
 <br />
 <br />
-
-Run the CheckFileIntegrity command and check what files have been altered:  <br/>
-![](Images/p7.png)
-<br />
-<br />
-
-The previous command shows that the "PII.txt"'s hash has been changed and was notified:  <br/>
 ![](Images/p8.png)
 <br />
 <br />
