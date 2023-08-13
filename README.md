@@ -1,6 +1,6 @@
 # Honeypot-and-Analysis
 
-![](images/intro.jpg)
+![](Images/intro.jpg)
 
 <br />
 <h2>Description</h2>
@@ -25,7 +25,7 @@ In this project, I designed and implemented a controlled honeypot environment us
 Launch the utility: <br/>
 
  Everything needed for the File Integrity Check:  <br/>
-![](images/p1.png)
+![](Images/p1.png)
 
 <br />
 <br />
@@ -37,27 +37,27 @@ Targeting Folder with valuable information:  <br/>
 <br />
 
 Run the MakeBaselineHash to get the original untampered hashes of files:  <br/>
-![](images/p4.png)
+![](Images/p4.png)
 <br />
 <br />
 
 Baseline hashes:  <br/>
-![](images/p5.png)
+![](Images/p5.png)
 <br />
 <br />
 
 Perpetrator goes into the system and steals your address without consent:  <br/>
-![](images/p6.png)
+![](Images/p6.png)
 <br />
 <br />
 
 Run the CheckFileIntegrity command and check what files have been altered:  <br/>
-![](images/p7.png)
+![](Images/p7.png)
 <br />
 <br />
 
 The previous command shows that the "PII.txt"'s hash has been changed and was notified:  <br/>
-![](images/p8.png)
+![](Images/p8.png)
 <br />
 <br />
 
