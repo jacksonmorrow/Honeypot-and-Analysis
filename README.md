@@ -30,7 +30,7 @@ Launch the utility: <br/>
 <br />
 <br />
 
- Connect to Honeypot server and create a pipeline to Deatusche Security:  <br/>
+ Connect to the Honeypot server and create a pipeline to Deatusche Security:  <br/>
 ![](Images/p2.png)
 
 <br />
@@ -38,7 +38,7 @@ Launch the utility: <br/>
 
 
 Clone Honeypot repo to our Honeypot EC2 Instance for Kibana use:  <br/>
-![](images/p3.png)
+![](Images/p3.png)
 <br />
 <br />
 
